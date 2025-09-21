@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/jay-1806/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jay-1806/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## String
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jay-1806/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/jay-1806/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jay-1806/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/jay-1806/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jay-1806/Leetcode/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/jay-1806/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
