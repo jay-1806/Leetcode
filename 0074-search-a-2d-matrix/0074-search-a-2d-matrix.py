@@ -10,7 +10,7 @@ class Solution:
         right = (rows * cols) - 1
 
         while left <= right:
-            mid = left + (right - left) // 2 
+            mid = (right + left) // 2 
 
             r = mid // cols
             c = mid % cols
