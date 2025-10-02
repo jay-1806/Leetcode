@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/jay-1806/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/jay-1806/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0739-daily-temperatures](https://github.com/jay-1806/Leetcode/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/jay-1806/Leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/jay-1806/Leetcode/tree/master/0883-car-fleet) |
 ## Sorting
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/jay-1806/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jay-1806/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/jay-1806/Leetcode/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
