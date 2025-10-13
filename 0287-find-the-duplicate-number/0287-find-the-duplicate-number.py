@@ -7,4 +7,4 @@ class Solution:
                 return num
 
             seen.add(num)
-        return 0
+        return -1
