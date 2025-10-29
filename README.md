@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/jay-1806/Leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/jay-1806/Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/jay-1806/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/jay-1806/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/jay-1806/Leetcode/tree/master/1127-last-stone-weight) |
 ## Sorting
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jay-1806/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/jay-1806/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0883-car-fleet](https://github.com/jay-1806/Leetcode/tree/master/0883-car-fleet) |
+| [1014-k-closest-points-to-origin](https://github.com/jay-1806/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/jay-1806/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/jay-1806/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jay-1806/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/jay-1806/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/jay-1806/Leetcode/tree/master/1127-last-stone-weight) |
 ## Monotonic Queue
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/jay-1806/Leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jay-1806/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1014-k-closest-points-to-origin](https://github.com/jay-1806/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1642-water-bottles](https://github.com/jay-1806/Leetcode/tree/master/1642-water-bottles) |
 ## Backtracking
 |  |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/jay-1806/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/jay-1806/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jay-1806/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1014-k-closest-points-to-origin](https://github.com/jay-1806/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -310,4 +315,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/jay-1806/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/jay-1806/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/jay-1806/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
