@@ -1,18 +1,38 @@
 class MedianFinder:
 
     def __init__(self):
-        self.data = []
+        self.small , self.large = [] , []
 
     def addNum(self, num: int) -> None:
-        self.data.append(num)
+        heapq.heappush(self.small, -1 * num)
+
+        #this ensures that only small values are kept in smallHeap < largeHeap
+        if (self.small and self.large and 
+           -1* self.small[0] > self.large[0]):
+           val = -1 * heapq.heappop(self.small)
+           heapq.heappush(self.large, val)
+        
+        #this ensures small and large have approx equal elements
+        if len(self.small) > len(self.large) + 1:
+            val = -1 * heapq.heappop(self.small)
+            heapq.heappush(self.large, val)
+        
+        if len(self.large) > len(self.small) + 1:
+            val = heapq.heappop(self.large)
+            heapq.heappush(self.small, -1*val)
 
     def findMedian(self) -> float:
-        self.data.sort()
-        n = len(self.data)
-        mid = n // 2
-
-        if n % 2 == 1:
-            return self.data[mid]
-        else:
-            return (self.data[mid-1] + self.data[mid]) / 2
+        if len(self.small) > len(self.large):
+            return -1 * self.small[0]
+        if len(self.large) > len(self.small):
+            return self.large[0]
         
+        return (-1*self.small[0] + self.large[0])/2
+
+        
+
+
+# Your MedianFinder object will be instantiated and called as such:
+# obj = MedianFinder()
+# obj.addNum(num)
+# param_2 = obj.findMedian()
