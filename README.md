@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jay-1806/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/jay-1806/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/jay-1806/Leetcode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/jay-1806/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/jay-1806/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/jay-1806/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/jay-1806/Leetcode/tree/master/0078-subsets) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jay-1806/Leetcode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/jay-1806/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/jay-1806/Leetcode/tree/master/0078-subsets) |
 ## Simulation
 |  |
