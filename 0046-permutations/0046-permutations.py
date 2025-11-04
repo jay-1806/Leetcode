@@ -4,7 +4,7 @@ class Solution:
 
         def dfs(curr):
             if len(curr) == len(nums):
-                res.append(curr.copy())
+                res.append(curr[:])
                 return
             
             for num in nums:
@@ -12,6 +12,6 @@ class Solution:
                     curr.append(num)
                     dfs(curr)
                     curr.pop()
-
+                
         dfs([])
         return res
