@@ -1,24 +1,22 @@
-class Solution(object):
-    def combinationSum2(self, candidates, target):
-        ans = []
-        ds = []
+class Solution:
+    def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
+        res = []
         candidates.sort()
 
-
-        def findCombination(ind, target):
+        def backtrack(start,path,target):
             if target == 0:
-                ans.append(ds[:])
+                res.append(path.copy())
                 return
-            for i in range(ind, len(candidates)):
-                if i > ind and candidates[i] == candidates[i - 1]:
+            if target < 0:
+                return
+
+            for i in range(start, len(candidates)):
+                if i > start and candidates[i] == candidates[i-1]:
                     continue
-                if candidates[i] > target:
-                    break
-                ds.append(candidates[i])
-                findCombination(i + 1, target - candidates[i])
-                ds.pop()
-
-
-        findCombination(0, target)
-        return ans
-        
+                
+                path.append(candidates[i])
+                backtrack(i+1,path,target-candidates[i])
+                path.pop()
+            
+        backtrack(0,[],target)
+        return res
