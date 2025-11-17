@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jay-1806/Leetcode/tree/master/0567-permutation-in-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/jay-1806/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/jay-1806/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1039-find-the-town-judge](https://github.com/jay-1806/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jay-1806/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## String
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/jay-1806/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0990-verifying-an-alien-dictionary](https://github.com/jay-1806/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/jay-1806/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1039-find-the-town-judge](https://github.com/jay-1806/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/jay-1806/Leetcode/tree/master/1127-last-stone-weight) |
 ## Sorting
 |  |
@@ -388,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/jay-1806/Leetcode/tree/master/0200-number-of-islands) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/jay-1806/Leetcode/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
