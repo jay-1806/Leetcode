@@ -27,7 +27,6 @@ public:
                     while(j<k && nums[k] == nums[k+1]) k--;
                 }
             }
-
         }
         return ans;
     }
