@@ -64,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/jay-1806/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/jay-1806/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/jay-1806/Leetcode/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/jay-1806/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/jay-1806/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/jay-1806/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jay-1806/Leetcode/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/jay-1806/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/jay-1806/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Array
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jay-1806/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/jay-1806/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jay-1806/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0611-valid-triangle-number](https://github.com/jay-1806/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0695-max-area-of-island](https://github.com/jay-1806/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/jay-1806/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/jay-1806/Leetcode/tree/master/0792-binary-search) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jay-1806/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jay-1806/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/jay-1806/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0611-valid-triangle-number](https://github.com/jay-1806/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0883-car-fleet](https://github.com/jay-1806/Leetcode/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/jay-1806/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jay-1806/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jay-1806/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/jay-1806/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0611-valid-triangle-number](https://github.com/jay-1806/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/jay-1806/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/jay-1806/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/jay-1806/Leetcode/tree/master/1023-time-based-key-value-store) |
