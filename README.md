@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/jay-1806/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1039-find-the-town-judge](https://github.com/jay-1806/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jay-1806/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1695-maximum-erasure-value](https://github.com/jay-1806/Leetcode/tree/master/1695-maximum-erasure-value) |
 ## String
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/jay-1806/Leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/jay-1806/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/jay-1806/Leetcode/tree/master/1127-last-stone-weight) |
+| [1695-maximum-erasure-value](https://github.com/jay-1806/Leetcode/tree/master/1695-maximum-erasure-value) |
 ## Sorting
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jay-1806/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/jay-1806/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jay-1806/Leetcode/tree/master/0567-permutation-in-string) |
+| [1695-maximum-erasure-value](https://github.com/jay-1806/Leetcode/tree/master/1695-maximum-erasure-value) |
 ## Queue
 |  |
 | ------- |
