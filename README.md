@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/jay-1806/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/jay-1806/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/jay-1806/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/jay-1806/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/jay-1806/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jay-1806/Leetcode/tree/master/0567-permutation-in-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/jay-1806/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/jay-1806/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/jay-1806/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/jay-1806/Leetcode/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/jay-1806/Leetcode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jay-1806/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/jay-1806/Leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jay-1806/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jay-1806/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jay-1806/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/jay-1806/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/jay-1806/Leetcode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/jay-1806/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0611-valid-triangle-number](https://github.com/jay-1806/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0883-car-fleet](https://github.com/jay-1806/Leetcode/tree/master/0883-car-fleet) |
