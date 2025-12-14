@@ -1,10 +1,17 @@
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
-        nums2 = []
+        n = len(nums)
+        result = [0] * n
+        left , right = 0 , n-1
 
-        for num in nums:
-            nums2.append(num*num)
+        for i in range(n-1, -1, -1):
+            left_sq = nums[left]*nums[left]
+            right_sq = nums[right]*nums[right]
 
-        nums2.sort()
-        return nums2
-        
+            if left_sq > right_sq:
+                result[i] = left_sq
+                left += 1
+            else:
+                result[i] = right_sq
+                right -= 1
+        return result
