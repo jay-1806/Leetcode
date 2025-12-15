@@ -7,7 +7,6 @@ class Solution:
         for r in range(len(nums)):
             if nums[r] == 0:
                 l += 1
-                r += 1
                 curr_len = 0
 
             else:
