@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jay-1806/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/jay-1806/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/jay-1806/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/jay-1806/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jay-1806/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jay-1806/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/jay-1806/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/jay-1806/Leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/jay-1806/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/jay-1806/Leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/jay-1806/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jay-1806/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1014-k-closest-points-to-origin](https://github.com/jay-1806/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1642-water-bottles](https://github.com/jay-1806/Leetcode/tree/master/1642-water-bottles) |
@@ -490,4 +492,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/jay-1806/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/jay-1806/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jay-1806/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
