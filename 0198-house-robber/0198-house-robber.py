@@ -1,17 +1,17 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
         n = len(nums)
-        memo = {}
 
-        def dfs(i):
-            if i >= n:
-                return 0
+        if n == 1:
+            return nums[0]
 
-            if i in memo:
-                return memo[i]
-                
-            memo[i] = max(dfs(i+1) , nums[i] + dfs(i+2))
-            return memo[i]
+        prev2 = nums[0]
+        prev1 = max(nums[0], nums[1])
 
-        return max(dfs(0),dfs(1))
+        for i in range(2,n):
+            curr = max(prev1, nums[i] + prev2)
+            prev2 = prev1
+            prev1 = curr
+         
+        return prev1
             
