@@ -1,12 +1,16 @@
 class Solution:
     def countSubstrings(self, s: str) -> int:
-        count = 0
         n = len(s)
-        for i in range(n):
-            for j in range(i, n):
-                sub_str = s[i:j+1]
-                if sub_str == sub_str[::-1]:
-                    count += 1
-                
-        return count
+        dp = [[False]*n for _ in range(n)]
+        count = 0 
+
+        for length in range(1, n+1):
+            for i in range(n-length+1):
+                j = i + length - 1
+            
+                if s[i] == s[j]:
+                    if length <= 2 or dp[i+1][j-1]:
+                        dp[i][j] = True
+                        count += 1
         
+        return count
