@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/jay-1806/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0990-verifying-an-alien-dictionary](https://github.com/jay-1806/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/jay-1806/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1143-longest-common-subsequence](https://github.com/jay-1806/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/jay-1806/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1894-merge-strings-alternately](https://github.com/jay-1806/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Two Pointers
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/jay-1806/Leetcode/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/jay-1806/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/jay-1806/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/jay-1806/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
