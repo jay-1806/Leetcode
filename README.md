@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jay-1806/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jay-1806/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/jay-1806/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/jay-1806/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/jay-1806/Leetcode/tree/master/0518-coin-change-ii) |
 | [0611-valid-triangle-number](https://github.com/jay-1806/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/jay-1806/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/jay-1806/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/jay-1806/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/jay-1806/Leetcode/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/jay-1806/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/jay-1806/Leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/jay-1806/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/jay-1806/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/jay-1806/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/jay-1806/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/jay-1806/Leetcode/tree/master/0212-word-search-ii) |
+| [0494-target-sum](https://github.com/jay-1806/Leetcode/tree/master/0494-target-sum) |
 ## Simulation
 |  |
 | ------- |
