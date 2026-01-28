@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jay-1806/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jay-1806/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jay-1806/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0072-edit-distance](https://github.com/jay-1806/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/jay-1806/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/jay-1806/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/jay-1806/Leetcode/tree/master/0091-decode-ways) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/jay-1806/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/jay-1806/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jay-1806/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/jay-1806/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/jay-1806/Leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/jay-1806/Leetcode/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jay-1806/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
