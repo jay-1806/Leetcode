@@ -9,8 +9,7 @@ class Solution:
         res = []
         for i,c in enumerate(s):
             size += 1
-            if lastIndex[c] > end:
-                end = lastIndex[c]
+            end = max(end, lastIndex[c])
             
             if i == end:
                 res.append(size)
