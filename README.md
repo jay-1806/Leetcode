@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/jay-1806/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jay-1806/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/jay-1806/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/jay-1806/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/jay-1806/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/jay-1806/Leetcode/tree/master/0763-partition-labels) |
 | [0990-verifying-an-alien-dictionary](https://github.com/jay-1806/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/jay-1806/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/jay-1806/Leetcode/tree/master/0134-gas-station) |
 | [0611-valid-triangle-number](https://github.com/jay-1806/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/jay-1806/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/jay-1806/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/jay-1806/Leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/jay-1806/Leetcode/tree/master/0846-hand-of-straights) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/jay-1806/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/jay-1806/Leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/jay-1806/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/jay-1806/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/jay-1806/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/jay-1806/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Stack
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/jay-1806/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jay-1806/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/jay-1806/Leetcode/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/jay-1806/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/jay-1806/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/jay-1806/Leetcode/tree/master/0883-car-fleet) |
 ## Monotonic Stack
