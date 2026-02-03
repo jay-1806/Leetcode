@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/jay-1806/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/jay-1806/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0846-hand-of-straights](https://github.com/jay-1806/Leetcode/tree/master/0846-hand-of-straights) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/jay-1806/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Array
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/jay-1806/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/jay-1806/Leetcode/tree/master/1127-last-stone-weight) |
 | [1695-maximum-erasure-value](https://github.com/jay-1806/Leetcode/tree/master/1695-maximum-erasure-value) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/jay-1806/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Sorting
 |  |
 | ------- |
