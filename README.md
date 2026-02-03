@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jay-1806/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jay-1806/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/jay-1806/Leetcode/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/jay-1806/Leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/jay-1806/Leetcode/tree/master/0846-hand-of-straights) |
 | [0990-verifying-an-alien-dictionary](https://github.com/jay-1806/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/jay-1806/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/jay-1806/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/jay-1806/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/jay-1806/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/jay-1806/Leetcode/tree/master/0763-partition-labels) |
 | [0990-verifying-an-alien-dictionary](https://github.com/jay-1806/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1023-time-based-key-value-store](https://github.com/jay-1806/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/jay-1806/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/jay-1806/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/jay-1806/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/jay-1806/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/jay-1806/Leetcode/tree/master/0763-partition-labels) |
 | [0977-squares-of-a-sorted-array](https://github.com/jay-1806/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/jay-1806/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/jay-1806/Leetcode/tree/master/0134-gas-station) |
 | [0611-valid-triangle-number](https://github.com/jay-1806/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/jay-1806/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/jay-1806/Leetcode/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/jay-1806/Leetcode/tree/master/0846-hand-of-straights) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/jay-1806/Leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Array
