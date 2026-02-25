@@ -1,5 +1,3 @@
-import heapq
-
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
@@ -7,31 +5,39 @@ import heapq
 #         self.next = next
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
-        min_heap = []
-        unique_id_counter = 0
+        if not lists:
+            return None
+        
+        while len(lists) > 1:
+            mergeLists= []
 
-        # 1. Initialization - Correctly sets up the heap with all *first* nodes
-        for head in lists:
-            if head:
-                heapq.heappush(min_heap, (head.val, unique_id_counter, head))
-                unique_id_counter += 1
-    
-        dummy = ListNode(0)
-        tail = dummy
+            for i in range(0,len(lists),2):
 
-        # 2. Merging Loop - Correctly builds the list
-        while min_heap:
-            val , _ , node = heapq.heappop(min_heap)
-            tail.next = node
-            tail = tail.next
-            
-            # 3. Replenishing the Heap - The critical fix
-            if node.next:
-                new_node = node.next
-                
-                # FIX: We must push the new_node, not the old 'head' variable
-                heapq.heappush(min_heap , (new_node.val, unique_id_counter, new_node))
-                
-                unique_id_counter += 1
+                l1 = lists[i]
+                l2 = lists[i+1] if i+1 < len(lists) else None
 
+                merged = self.mergeList(l1,l2)
+                mergeLists.append(merged)
+            lists = mergeLists
+        return lists[0]
+
+
+    def mergeList(self,l1,l2):
+        dummy = ListNode()
+        curr = dummy
+
+        while l1 and l2:
+            if l1.val > l2.val:
+                curr.next = l2
+                l2 = l2.next
+            else:
+                curr.next = l1
+                l1 = l1.next
+            curr = curr.next
+        
+        if l1:
+                curr.next = l1
+        if l2:
+                curr.next = l2
+        
         return dummy.next
